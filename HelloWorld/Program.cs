@@ -2,6 +2,7 @@
 //Console.WriteLine("Hello, World!");
 using System;
 using System.Formats.Asn1;
+using System.Globalization;
 
 class Program
 {
@@ -53,10 +54,13 @@ class Program
         Console.WriteLine(cons);
 
         int cons_int = int.Parse(cons); // Статический метод - потоу, что вызывается из переменной
-        cons_int = cons_int +1;
+        cons_int = cons_int + 1;
         string cons_int_str = cons_int.ToString(); // Динамический метод - потоу, что вызывается из переменной
         Console.WriteLine(cons_int_str);
 
+        string doubleNumber = "894376.243643";
+        double number = double.Parse(doubleNumber, CultureInfo.InvariantCulture); // Вася уверен, что ошибка где-то тут
+        Console.WriteLine(number + 1);
 
 
         //Console.WriteLine(cons_int + 1);
