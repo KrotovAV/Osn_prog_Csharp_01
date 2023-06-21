@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\04 lesson\\04 lesson.csproj": {}
   },
   "projects": {
-    "d:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\04 lesson\\04 lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "d:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\04 lesson\\04 lesson.csproj",
+        "projectName": "04 lesson",
+        "projectPath": "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\04 lesson\\04 lesson.csproj",
         "packagesPath": "C:\\Users\\10\\.nuget\\packages\\",
-        "outputPath": "d:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\HelloWorld\\obj\\",
+        "outputPath": "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\04 lesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\10\\AppData\\Roaming\\NuGet\\NuGet.Config"
