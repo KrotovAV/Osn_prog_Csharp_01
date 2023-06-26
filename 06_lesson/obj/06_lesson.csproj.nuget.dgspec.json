@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\06_lesson\\06_lesson.csproj": {}
+  },
+  "projects": {
+    "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\06_lesson\\06_lesson.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\06_lesson\\06_lesson.csproj",
+        "projectName": "06_lesson",
+        "projectPath": "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\06_lesson\\06_lesson.csproj",
+        "packagesPath": "C:\\Users\\10\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulearn.me\\UlearnGit\\Osn_prog_Csharp_01\\06_lesson\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

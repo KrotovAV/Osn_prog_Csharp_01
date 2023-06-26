@@ -9,6 +9,7 @@ class Program
 
     static void Main(string[] args)
     {
+        
         int a = 45;
         Console.WriteLine(a);
         double b = 55.5;
