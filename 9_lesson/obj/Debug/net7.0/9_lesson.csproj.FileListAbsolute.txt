@@ -1,0 +1,5 @@
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\9_lesson\obj\Debug\net7.0\9_lesson.csproj.AssemblyReference.cache
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\9_lesson\obj\Debug\net7.0\9_lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\9_lesson\obj\Debug\net7.0\9_lesson.AssemblyInfoInputs.cache
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\9_lesson\obj\Debug\net7.0\9_lesson.AssemblyInfo.cs
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\9_lesson\obj\Debug\net7.0\9_lesson.csproj.CoreCompileInputs.cache

@@ -2,25 +2,26 @@
 //BP1-1-2-1 Ошибки компиляции.mp4
 //BP1-1-2-2 Ошибки выполнения программы.mp4
 
+
 using System;
 
 class Program
 {
     private static string GetMinX(int a, int b, int c)
-{
-    if (a == 0 && b == 0)
-        {
-            return 0.ToString();
-        }
-    else if (a == 0)
-        {
-            return "Impossible";
-        }
-    else
-        {
-            return (-b / (2.0 * a)).ToString();
-        }
-}
+    {
+        if (a == 0 && b == 0)
+            {
+                return 0.ToString();
+            }
+        else if (a == 0)
+            {
+                return "Impossible";
+            }
+        else
+            {
+                return (-b / (2.0 * a)).ToString();
+            }
+    }
     static int Divide(int a)
     {
         return 100/a;

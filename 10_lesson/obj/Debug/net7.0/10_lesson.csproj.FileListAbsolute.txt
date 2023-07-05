@@ -1,0 +1,15 @@
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\bin\Debug\net7.0\10_lesson.exe
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\bin\Debug\net7.0\10_lesson.deps.json
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\bin\Debug\net7.0\10_lesson.runtimeconfig.json
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\bin\Debug\net7.0\10_lesson.dll
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\bin\Debug\net7.0\10_lesson.pdb
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.csproj.AssemblyReference.cache
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.AssemblyInfoInputs.cache
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.AssemblyInfo.cs
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.csproj.CoreCompileInputs.cache
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.dll
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\refint\10_lesson.dll
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.pdb
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\10_lesson.genruntimeconfig.cache
+D:\Ulearn.me\UlearnGit\Osn_prog_Csharp_01\10_lesson\obj\Debug\net7.0\ref\10_lesson.dll
